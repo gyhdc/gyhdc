@@ -22,11 +22,6 @@
 [![QQ Mail(MAIN)](https://img.shields.io/badge/-QQ%20Mail-EB1923?style=flat-square&logo=TencentQQ&logoColor=white)](mailto:2669459326@qq.com)
 [![QQ](https://img.shields.io/badge/-QQ-EB1923?style=flat-square&logo=tencentqq&logoColor=white)](http://wpa.qq.com/msgrd?v=3&uin=2669459326&site=qq&menu=yes)
 [![Bilibili](https://img.shields.io/badge/-Bilibili-00A1D6?style=flat-square&logo=bilibili&logoColor=white)](https://space.bilibili.com/168156771)
-|------------|-------------------------------|
-| Google 邮箱 | [geyuheng1219@gmail.com](mailto:geyuheng1219@gmail.com) |
-| QQ 邮箱    | 2669459326                    |
-| Bilibili   | [我的Bilibili主页](https://space.bilibili.com/168156771) |
-| QQ         | 2669459326                    |
 
 <!--
 **gyhdc/gyhdc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
