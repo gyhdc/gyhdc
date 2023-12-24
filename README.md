@@ -20,7 +20,7 @@
 
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:geyuheng1219@gmail.com)
 [![QQ](https://img.shields.io/badge/-QQ-EB1923?style=flat-square&logo=tencentqq&logoColor=white)](http://wpa.qq.com/msgrd?v=3&uin=2669459326&site=qq&menu=yes)
-[![Bilibili](https://img.shields.io/badge/-Bilibili-00A1D6?style=flat-square&logo=bilibili&logoColor=white)](https://www.bilibili.com/your-bilibili-末梢阻断)
+[![Bilibili](https://img.shields.io/badge/-Bilibili-00A1D6?style=flat-square&logo=bilibili&logoColor=white)](https://www.bilibili.com/168156771)
 
 <!--
 **gyhdc/gyhdc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
