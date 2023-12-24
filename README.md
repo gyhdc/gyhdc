@@ -11,10 +11,10 @@
 </div>
 
 ## 💻 Tech Stack
-
+<div>
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
-
+</div>
 ## 📫 How to Reach Me
 
 - Email: [geyuheng1219@gmail.com](mailto:geyuheng1219@gmail.com)
