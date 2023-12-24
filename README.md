@@ -3,7 +3,7 @@
 <!--     <h1>👋 Hi, I'm [Your Name]</h1> -->
 <!--     <p>I'm passionate about C++ and Python programming!</p> -->
     <a href="https://github.com/gyhdc">
-        <img src="https://github-readme-stats.vercel.app/api?username=gyhdcN&show_icons=true&theme=radical" alt="GitHub Stats" height="160"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=gyhdc&show_icons=true&theme=radical" alt="GitHub Stats" height="160"/>
     </a>
     <a href="https://github.com/gyhdc">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gyhdc&layout=compact&theme=radical" alt="Top Languages" height="160"/>
