@@ -14,7 +14,7 @@
 ## 💻 Tech Stack
 
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 ## 📫 How to Reach Me
 
