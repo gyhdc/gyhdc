@@ -1,5 +1,5 @@
 ### Hi there 👋
-<div align="center">
+<div align="left">
 <!--     <h1>👋 Hi, I'm [Your Name]</h1> -->
 <!--     <p>I'm passionate about C++ and Python programming!</p> -->
     <a href="https://github.com/gyhdc">
