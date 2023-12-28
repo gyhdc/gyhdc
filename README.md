@@ -1,4 +1,4 @@
-### Hi !
+### Hi! This is me.
 <div align="left">
 <!--     <h1>👋 Hi, I'm [Your Name]</h1> -->
 <!--     <p>I'm passionate about C++ and Python programming!</p> -->
